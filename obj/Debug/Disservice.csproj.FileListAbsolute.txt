@@ -1,0 +1,9 @@
+D:\code\C#_projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\code\C#_projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\code\C#_projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\code\C#_projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Disservice.csprojResolveAssemblyReference.cache
+D:\code\C#_projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Disservice.Form1.resources
+D:\code\C#_projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\code\C#_projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Disservice.csproj.GenerateResource.Cache
+D:\code\C#_projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\code\C#_projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
